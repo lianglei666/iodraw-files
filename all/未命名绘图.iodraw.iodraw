@@ -46,7 +46,7 @@
         <mxCell id="6L6q8sKe82iK3xalZ7m4-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="292.75" y="-160.25" width="161.5" height="332" as="geometry" />
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.513;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6L6q8sKe82iK3xalZ7m4-13">
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.513;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="6L6q8sKe82iK3xalZ7m4-13" target="6L6q8sKe82iK3xalZ7m4-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="120" as="sourcePoint" />
             <mxPoint x="440" y="70" as="targetPoint" />
