@@ -46,10 +46,10 @@
         <mxCell id="6L6q8sKe82iK3xalZ7m4-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="334" y="-120" width="94.25" height="332" as="geometry" />
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-16" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="360" y="100" as="sourcePoint" />
-            <mxPoint x="460" y="100" as="targetPoint" />
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="120" as="sourcePoint" />
+            <mxPoint x="440" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
