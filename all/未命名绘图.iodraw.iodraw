@@ -43,8 +43,8 @@
         <mxCell id="6L6q8sKe82iK3xalZ7m4-12" value="王晓峰服务售前(拓展)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="334" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="-100" width="50" height="100" as="geometry" />
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="-104.5" width="161" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
