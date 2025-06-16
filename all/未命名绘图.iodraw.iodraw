@@ -19,7 +19,7 @@
         <mxCell id="6L6q8sKe82iK3xalZ7m4-6" value="尹斯客户经理(机关局)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-7" value="张光旭服务部长" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-7" value="张光旭&lt;div&gt;服务部长&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="6L6q8sKe82iK3xalZ7m4-7">
@@ -31,7 +31,7 @@
         <mxCell id="6L6q8sKe82iK3xalZ7m4-9" value="&lt;div&gt;田贺&lt;/div&gt;&lt;div&gt;服务经理&lt;/div&gt;&lt;div&gt;(客户)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-10" value="胡振客户经理(服务)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-10" value="胡振&lt;div&gt;客户经理(服务)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="334" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="6L6q8sKe82iK3xalZ7m4-10">
