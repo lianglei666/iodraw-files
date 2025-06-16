@@ -9,8 +9,11 @@
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="270" as="sourcePoint" />
-            <mxPoint x="530" y="160" as="targetPoint" />
+            <mxPoint x="219.5" y="290" as="sourcePoint" />
+            <mxPoint x="219.5" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-6" value="尹斯客户经理(机关局)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -25,7 +28,7 @@
             <mxPoint x="760" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-9" value="尹斯客户经理(机关局)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-9" value="&lt;div&gt;张鸣一&lt;/div&gt;&lt;div&gt;服务经理&lt;/div&gt;&lt;div&gt;(客户)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-10" value="胡振客户经理(服务)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
