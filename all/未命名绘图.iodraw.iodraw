@@ -9,14 +9,14 @@
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="219.5" y="290" as="sourcePoint" />
+            <mxPoint x="220" y="230" as="sourcePoint" />
             <mxPoint x="219.5" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-6" value="尹斯客户经理(机关局)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-6" value="尹斯&lt;div&gt;客户经理(机关局)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="180" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-7" value="张光旭&lt;div&gt;服务部长&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
             <mxPoint x="594" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6L6q8sKe82iK3xalZ7m4-12" value="王晓峰服务售前(拓展)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6L6q8sKe82iK3xalZ7m4-12" value="王晓峰&lt;div&gt;服务售前(拓展)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="334" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6L6q8sKe82iK3xalZ7m4-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
